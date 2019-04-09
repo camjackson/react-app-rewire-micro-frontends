@@ -1,0 +1,10 @@
+{
+  "name": "react-app-rewire-disable-chunks",
+  "version": "0.0.1",
+  "description": "Modifies react-scripts 2.0 config to emit a single chunk",
+  "main": "config-overrides.js",
+  "repository": "git@github.com:camjackson/react-app-rewire-disable-chunks.git",
+  "author": "Cam Jackson",
+  "license": "MIT",
+  "private": false
+}
