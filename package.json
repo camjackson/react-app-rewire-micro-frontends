@@ -1,9 +1,9 @@
 {
-  "name": "react-app-rewire-disable-chunks",
+  "name": "react-app-rewire-micro-frontends",
   "version": "0.0.1",
-  "description": "Modifies react-scripts 2.0 config to emit a single chunk",
+  "description": "Modifies react-scripts 2.0 for micro frontend development",
   "main": "config-overrides.js",
-  "repository": "git@github.com:camjackson/react-app-rewire-disable-chunks.git",
+  "repository": "git@github.com:camjackson/react-app-rewire-micro-frontends.git",
   "author": "Cam Jackson",
   "license": "MIT",
   "private": false
